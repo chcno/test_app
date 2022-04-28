@@ -22,4 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-1. New text
+1. First test repo on the Complete ruby on rails developer course
